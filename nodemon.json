@@ -1,0 +1,6 @@
+{
+    "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/refs/heads/master/src/schemas/json/nodemon.json",
+    "watch": ["src/"],
+    "ext": "ts",
+    "exec": "ts-node ."
+}
